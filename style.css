@@ -3,7 +3,7 @@ body {
     padding: 0;
     box-sizing: border-box;
     background: linear-gradient(to right, #154c79,#217dc8);
-    max-height: 100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
