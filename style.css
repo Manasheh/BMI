@@ -38,6 +38,9 @@ label  {
     border-radius: 5px;
     font-size: 18px;
 }
+.btn {
+    background-color: #154c79;
+}
 .btn:hover {
     background-color:#154c79 ;
     color: white;
@@ -49,6 +52,9 @@ label  {
 }
 
 @media only screen and (max-width:600px) {
+    .heading {
+        font-size: 19px;
+    }
     .container {
         width: 90%;
     }
@@ -60,7 +66,7 @@ label  {
         margin: 5px;
     }
     .input,.btn {
-        padding: 4px 7px;
+        padding: 5px 7px;
         border-color: rgba(0,0,0,.4);
         outline: none;
         border-radius: 3px;
