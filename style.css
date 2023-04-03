@@ -37,6 +37,7 @@ label  {
     outline: none;
     border-radius: 5px;
     font-size: 18px;
+    cursor: pointer;
 }
 .btn {
     background-color: #217dc8;
@@ -73,6 +74,7 @@ label  {
         outline: none;
         border-radius: 3px;
         font-size: 13px;
+        
     }
     .condition {
         text-align: start;
