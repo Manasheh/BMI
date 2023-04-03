@@ -39,11 +39,13 @@ label  {
     font-size: 18px;
 }
 .btn {
-    background-color: #154c79;
+    background-color: #217dc8;
+    color: white;
+    margin: 5px 0;
 }
 .btn:hover {
     background-color:#154c79 ;
-    color: white;
+    color: black;
     transition: all 0.3s ease-in-out;
 }
 .condition {
